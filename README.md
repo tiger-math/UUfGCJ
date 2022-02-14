@@ -3,4 +3,4 @@ This is a CSS and Javascript library.<br>
 Please use this!<br><br>
 
 <h1>How to use</h1>
-Please read this: <a href="manual.html">manual</a>
+Please read this: <a href="https://tiger-math.github.io/UUfGCJ/manual.html">manual</a>
